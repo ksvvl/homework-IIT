@@ -1,0 +1,12 @@
+body {
+    background-color: #6a6868;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  a {
+    color: #811616;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
